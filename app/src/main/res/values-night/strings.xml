@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MeraBillsTask</string>
     <string name="total_amount_text">"Total Amount= ₹ "</string>
     <string name="add_payment_text"><u>Add payment</u></string>
     <string name="btn_save_text">Save</string>
@@ -17,9 +17,4 @@
     <string name="add_payment_header_text">Add Payment</string>
     <string name="save_payment_success_msg">Payments saved successfully</string>
     <string name="save_payment_failure_msg">Error saving payments</string>
-    <array name="available_payment_types">
-        <item>Cash</item>
-        <item>Bank Transfer</item>
-        <item>Credit Card</item>
-    </array>
 </resources>
