@@ -192,6 +192,7 @@ public class MainActivity extends AppCompatActivity {
 
                 binding.etProvider.setVisibility(needsDetails ? View.VISIBLE : View.GONE);
                 binding.etTransactionRef.setVisibility(needsDetails ? View.VISIBLE : View.GONE);
+                binding.tvError.setVisibility(View.GONE);
             }
 
             @Override
